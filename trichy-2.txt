@@ -1,0 +1,76 @@
+<html>
+<head>
+<title> Trichy </title>
+
+
+</head>
+
+<body>
+
+<p>Tiruchirappalli (About this sound pronunciation (formerly Trichinopoly in English), also called Tiruchi or Trichy, is a major tier II city in the Indian state of Tamil Nadu and the administrative headquarters of Tiruchirappalli district. The city is credited with being the best livable city and the cleanest city of Tamil Nadu, as well as the fifth safest city for women in India.
+
+<br/><br/>
+
+ It is the fourth largest city as well as the fourth largest urban agglomeration in the state. Located 322 kilometres (200 mi) south of Chennai and 374 kilometres (232 mi) north of Kanyakumari, Tiruchirappalli sits almost at the geographic centre of the state.</p>
+
+<a href= "https://www.google.com/"> view more  </a>
+
+<ul>
+<li> Chatram bus stand</li>
+<li> kk naghar </li>
+<li> woriyur </li>
+
+</ul>
+
+<ol>
+<li> 620001</li>
+<li>620002</li>
+<li>620003</li>
+
+</ol>
+ <img src="C:\Users\Carol\Desktop\htmlprog\trichy.jfif" width="500" height="500">
+ 
+ <table border="1">
+ <tr>
+      <th> Location </th>
+	  <th> pincode </th>
+</tr>
+
+<tr>
+      <td colspan="2"> nsb road</td>
+	  
+</tr>
+
+<tr>
+       <td> woriyur</td>
+	   <td> 620002</td>
+</tr>
+
+
+<tr>
+       <td> thillainagar</td>
+	   <td rowspan="2"> 620003</td>
+</tr>
+
+<tr>
+       <td> central </td>
+	   
+</tr>
+
+</table>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+</html>
