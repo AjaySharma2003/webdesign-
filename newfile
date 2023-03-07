@@ -1,0 +1,212 @@
+[07/03, 4:51 pm] Riyas Nanba: Class Time Table
+
+<html> <head>
+
+<title> Class Time Table <</title>
+
+</head>
+
+<body bgcolor="pink">
+
+<h1> <center> St.Joseph's College (Autonomous),
+
+Thiruchirappalli.</center> </h1>
+
+<h2> <center> Department of Information Technology.
+
+</center></h2> <h3><center> <u> College Time Table for III BCA 'B'
+
+</u></center> </h3>
+
+<table border="5" align="center" cellspacing="7"
+
+cellpadding="5">
+
+<tr bgcolor="red"> <th colspan="7"> TIME TABLE </th>
+
+</tr>
+
+<tr bgcolor="yellow" align="center">
+
+<th> DAY </th>
+
+<th> 1.30-2.15 </th>
+
+<th>2.15-3.00 </th> <th> 3.00-3.45 </th>
+
+<th> 3.45-4.00 </th>
+
+<th> 4.00-4.45 </th>
+
+<th> 4.45-5.30 </th>
+
+</tr>
+
+<tr bgcolor="cyan" align="center">
+
+<td> A </td>
+
+<td> SE </td>
+
+<td> OS </td>
+
+<td> SE </td>
+
+<td bgcolor="brown" rowspan="6"> <center> B<br>R<br>E<br>A<br>K </center></td>
+
+<td> XML </td>
+
+<td>HTML</td>
+
+</tr>
+[07/03, 4:52 pm] Riyas Nanba: <tr bgcolor="blue" align="center"">
+
+<td>B</td>
+
+<td> XML </td>
+
+<td> SE </td>
+
+<td> SS </td>
+
+<td> SS </td>
+
+<td> JAVA </td>
+
+</tr>
+
+<tr bgcolor="orange" align="center">
+
+<td>C</td>
+
+<td> SE </td>
+
+<td> OS </td>
+
+<td> JAVA</td>
+
+<td> XML </td>
+
+<td> HTML </td>
+
+</tr>
+
+<tr bgcolor="purple" align="center">
+
+<td> D </td> <td colspan="3"><center> HTML LAB </center></td>
+
+<td> JAVA </td>
+
+<td> OS </td>
+
+</tr>
+
+<<tr bgcolor="grey" align="center"> <td> E </td>
+
+<td> JAVA </td>
+
+<td> OS </td>
+
+<td> HTML </td>
+
+<td> CBE </td>
+
+<td> XML </td>
+
+</tr>
+
+<tr bgcolor="green" align="center">
+
+<td>F</td>
+
+<td colspan="3"><center> JAVA LAB </center></td>
+
+<td> CBE</td>
+
+<td> Html</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+[07/03, 4:52 pm] Riyas Nanba: <html>
+
+<head>
+
+<title>Universal selector</title>
+
+<style>
+
+*{color:green;
+
+font-family:arial black;
+
+text-align:center;}
+
+</style>
+
+</head>
+
+<body>
+
+<p>This selector will affect all the tags..</p> <h1>This is Universal selector</h1> <h4>All tags are affected</h4>
+
+</body>
+
+</html>
+[07/03, 4:53 pm] Riyas Nanba: <html>
+
+<head>
+
+<title>Element type selector</title>
+
+<style>
+
+p{color:green;
+
+font-family:arial black;} ul { list-style-type: circle; border: solid 1px #ccc;
+
+color: red;}
+
+</style>
+
+</head>
+
+<body>
+
+<p>This selector will affect the tags which have the
+
+same name of
+
+elements..</p>
+
+<p>This tag is very helpful</p>
+
+<h1>This is Element type selector</h1>
+
+<ul>
+
+<li>Animals</li>
+
+<li>Fruits</li>
+
+<li>Electronics</li>
+
+</ul>
+
+<ul>
+
+<li>Boy</li>
+
+<li>Girl</li>
+
+</ul>
+
+</body>
+
+</html>
+
+બનાવ
